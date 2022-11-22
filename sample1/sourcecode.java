@@ -5,7 +5,7 @@ import java.io.collection;
 import java.io.scanner;
 import java.io.outputprinter;
 import java.io.monjin;
-public class SpiralPatternExample2
+public class SpiralPatternExamples
 {  
 //function to print the spiral pattern  
 public static void printPattern(int n)  
